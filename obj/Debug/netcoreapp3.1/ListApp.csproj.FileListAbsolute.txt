@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\bin\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ListApp\obj\Debug\netcoreapp3.1\ListApp.genruntimeconfig.cache
